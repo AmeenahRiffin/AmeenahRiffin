@@ -1,4 +1,9 @@
-## Hi there 👋
+## You've discovered Ameenah Riffin's Github
+
+Hello from the other side of the screen. I'm Ameenah, an aspiring DevOps/Software Engineer. Tech is definitely a bit of a journey of endless learning and discovery, and one I've enjoyed for a few years now.
+This Github is a bit like an attic right now, full of dusty (and new) study projects and ideas I've been working on.
+
+Hoping to expand my range of projects as things go on, but for now enjoy your stay.
 
 <!--
 **AmeenahRiffin/AmeenahRiffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
